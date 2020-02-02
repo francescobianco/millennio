@@ -1,2 +1,2 @@
-# tecnologia-fuori-dal-coro
+# Tecnologia Fuori Dal Coro
 Ogni podcast il suo repository
