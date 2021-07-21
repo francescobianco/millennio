@@ -12,6 +12,13 @@ Segui il Podcast a questo link [https://anchor.fm/tecnologia-fuori-dal-coro](htt
 ## Argomenti
 - Domotica
 
+## Episodi
+
+- 001 -  
+- 002 -
+- 003 -
+- 004 -
+
 ## Podcasts (Masterclass)
 
 - https://www.spreaker.com/show/lo-show-di-matteo-g-p-flora
