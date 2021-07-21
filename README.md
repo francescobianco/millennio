@@ -26,3 +26,8 @@ Segui il Podcast a questo link [https://anchor.fm/millennio](https://anchor.fm/m
 - http://digitalia.fm/
 - https://www.caffe20.it/
 - https://soundcloud.com/ispazio
+
+## Coatching
+
+- https://www.youtube.com/watch?v=B2cEMPfVG8Q
+- 
