@@ -1,5 +1,6 @@
 # Millennio
-Ogni podcast il suo repository
+
+> Cronache di un'umanità che timidamente ma inesorabilmente si affaccia al terzo millennio.
 
 Segui il Podcast a questo link [https://anchor.fm/millennio](https://anchor.fm/millennio)
 
