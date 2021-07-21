@@ -1,7 +1,7 @@
 # Tecnologia Fuori Dal Coro
 Ogni podcast il suo repository
 
-Segui il Podcast a questo link [https://anchor.fm/tecnologia-fuori-dal-coro](https://anchor.fm/tecnologia-fuori-dal-coro)
+Segui il Podcast a questo link [https://anchor.fm/millennio](https://anchor.fm/millennio)
 
 ## Piano Editoriale
 
