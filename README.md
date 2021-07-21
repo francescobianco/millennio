@@ -3,6 +3,10 @@ Ogni podcast il suo repository
 
 Segui il Podcast a questo link [https://anchor.fm/millennio](https://anchor.fm/millennio)
 
+## Abstract
+
+Il terzo millennio sta cominciando all'insegna di grandi rivoluzione, il secondo di è chiuso con una rivoluzione industriale che poi è evolutana nella nascita dell'informatica e di internet, nonch'è degli smartphone. Questa primi anni del terzo millennio abbiamo i primi viaggi spaziali civili, l'intelligenza artificiale che gioca con gli arcade dell'Amiga, e molto altro. Possiamo immaginarci come alle porte di un salto verso scenari fantascentifici. 
+
 ## Piano Editoriale
 
 1. Parlare di tecnologia
@@ -10,6 +14,7 @@ Segui il Podcast a questo link [https://anchor.fm/millennio](https://anchor.fm/m
 3. Fare filosofia ed etica nella tecnologia
 
 ## Argomenti
+
 - Domotica
 
 ## Episodi
